@@ -2,8 +2,9 @@
 DRS Review system in cricket for python.
 
 # Usage
+```
 python3 lbw-drs.py number-of-frames width height ball-type folder speed
-
+```
 # Ball Types
 p - pink <br>
 r - red <br>
